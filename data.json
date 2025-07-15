@@ -1,0 +1,152 @@
+{
+  "navbar": [
+    {
+      "path": "#",
+      "text": "Home"
+    },
+
+    {
+      "path": "#news",
+      "text": "News"
+    },
+
+    {
+      "path": "#projects",
+      "text": "Projects"
+    }
+  ],
+  "about": {
+    "name": "Andrew Warren",
+    "title": "Boston College Student",
+    "photo": "https://cdn.glitch.global/ba50e72c-7537-4ac2-bda1-800a54830f60/Photo.JPG?v=1729286747539",
+    "alt": "photo of self",
+    "department": "Carroll School of Management",
+    "departmentLink": "https://www.bc.edu/content/bc-web/schools/carroll-school/academic-departments/marketing.html",
+    "departmentTarget": "_blank",
+    "major": ["CS", "Marketing"],
+    "university": "Boston College (2025)",
+    "universityLink": "http://www.bc.edu",
+    "universityTarget": "_blank",
+    "address": "Chestnut Hill, MA 02467",
+    "tel": "4136950214",
+    "phone": "(413) 695-0214",
+    "email": "warrenaf@bc.edu",
+    "url": "https://assignment7-andrewwarren.glitch.me/",
+    "bio": "Andrew Warren is a senior at Boston College...",
+    "resume": "https://cdn.glitch.global/ba50e72c-7537-4ac2-bda1-800a54830f60/Resume_CS.docx?v=1729295137174",
+    "git": "https://github.com/warrenaf",
+    "linkd": "https://www.linkedin.com/in/andrew-warren-705480237?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBaMHRMNfTweB14w1X7BigA%3D%3D",
+    "self": "Hello, my name is Andrew and I am a senior at Boston College studying marketing and computer science. I am looking to enter the video game industry as a software developer, and hopefully move in a more creative direction as my career progresses. I have always loved video games, and it would be selling them short to say they haven't had a big impact on my life. I believe that they have so much more to offer than many people give them credit for. On the one hand, games can be beautiful expressions of art functioning on a level of interactibility never seen before. While on the other hand, games can offer some of the most exciting experiences you'll ever have. Add on the fact that I have grown my relationships so much through gaming and you have the reason that I think video games are one of the most faceted forms of human expression. For all the beautiful games that have come out in the past, I think we've still barely scratched the surface of what they're capable of and I would consider it an honor to help discover what heights we can continue to push them to."
+  },
+  "news": [
+    {
+      "title": "My Portfolio Website",
+      "date": "Fall 2024"
+    },
+    {
+      "title": "Slicy Dice",
+      "date": "December 2024"
+    },
+    {
+      "title": "Graduation",
+      "date": "May 2025"
+    }
+  ],
+  "projects": [
+    {
+      "id": "slicy",
+      "title": "Slicy Dice",
+      "cover": "fa-circle",
+      "by": "Andrew Warren",
+      "date": "January 2025",
+      "type": "Mobile Game",
+      "skills": "Unity, C#",
+      "link": "#",
+      "bullets": [
+        {
+          "title": "About",
+          "description": "Slicy Dice is a mobile action puzzle game where you are in control of a sphere and you must find your way through formations of evil squares. Once through, you can pick up a powerup that grants you the power of slicing, allowing you to cut up enemy squares by dashing through them. Make it through all the worlds to win.",
+          "info": "I made this game in Unity, it's the first game I have made so it taught me a lot. While perhaps not the most cleanly coded piece of work, it came together in the end. It features two different player movement styles that are alternated throughout the game. I used a lot of C# to code the game."
+        }
+      ],
+      "vimages": [
+        "https://cdn.glitch.global/ba50e72c-7537-4ac2-bda1-800a54830f60/Screenshot%202024-10-18%20at%2010.23.24%E2%80%AFPM%202.png?v=1729304809501",
+        "https://cdn.glitch.global/ba50e72c-7537-4ac2-bda1-800a54830f60/Screenshot%202024-10-18%20at%2010.23.31%E2%80%AFPM%202.png?v=1729304824973",
+        "https://cdn.glitch.global/ba50e72c-7537-4ac2-bda1-800a54830f60/Screenshot%202024-10-18%20at%2010.23.45%E2%80%AFPM%202.png?v=1729304822585",
+        "https://cdn.glitch.global/ba50e72c-7537-4ac2-bda1-800a54830f60/Screenshot%202024-10-18%20at%2010.23.52%E2%80%AFPM.png?v=1729304790352"
+      ],
+      "himages": [
+]
+    },
+    {
+      "id": "portfolio",
+      "title": "My Portfolio Website",
+      "cover": "fa-house",
+      "by": "Andrew Warren",
+      "date": "January 2025",
+      "type": "Personal Website",
+      "skills": "JS, HTML, CSS",
+      "link": "https://final-portfolio-aw.glitch.me/",
+      "bullets": [
+        {
+          "title": "About",
+          "description": "I have just finished the creation of my portfolio version 1. While many improvements are to come, this is a good start. This is a fully functional website that has many features, including navigation, reactive design, and a grid layout. Its created with HTML, JS, and CSS. It includes shape shifting buttons that allow the user to remain on one screen the whole time they are using the site."
+        },
+        {
+          "title": "Made with Unity",
+          "description": "This app is being created on the Unity engine. I have gotten to a point where I am very proficient in the Unity coding and workspace environment, and have a confidence in my abilities to create what I put my mind to."
+        }
+      ],
+      "vimages": [
+      ],
+      "himages": [
+        "https://cdn.glitch.global/ee4a5473-ef85-4b37-af02-206b9549a351/Screenshot%202025-01-09%20at%2010.17.11%E2%80%AFAM.png?v=1736435855857",
+        "https://cdn.glitch.global/ee4a5473-ef85-4b37-af02-206b9549a351/Screenshot%202025-01-09%20at%2010.17.00%E2%80%AFAM.png?v=1736435859927"
+      ]
+    },
+    {
+      "id": "EagleEye",
+      "title": "Eagle Eye",
+      "cover": "fa-crow",
+      "by": "Andrew Warren, Evan Mirabella, Nathan Shea, Annie Meacham",
+      "date": "December 2024",
+      "type": "Mapping Site for Boston College",
+      "skills": "JS, HTML, CSS",
+      "link": "https://webdev-final-group11.glitch.me/",
+      "bullets": [
+        {
+          "title": "About",
+          "description": "Eagle Eye is a website that me and three other students at Boston College created. It essentially is a site that maps out anything and everything on our campus. The idea for this site stemmed from the fact that there are so many things at BC that have no clear locations, (ie. vending machines, laundry rooms, printers, etc.). Even if something does have a findable location, there is still no one place someone can go to find anything they might be interested in, until now."
+        }
+      ],
+      "vimages": [
+      ],
+      "himages": [
+        "https://cdn.glitch.global/ee4a5473-ef85-4b37-af02-206b9549a351/Screenshot%202025-01-09%20at%2011.08.51%E2%80%AFAM.png?v=1736439017378",
+        "https://cdn.glitch.global/ee4a5473-ef85-4b37-af02-206b9549a351/Screenshot%202025-01-09%20at%2011.09.26%E2%80%AFAM.png?v=1736439011269",
+        "https://cdn.glitch.global/ee4a5473-ef85-4b37-af02-206b9549a351/Screenshot%202025-01-09%20at%2011.09.43%E2%80%AFAM.png?v=1736439001727"
+      ]
+    },
+     {
+      "id": "BillingCodes",
+      "title": "Billing Codes",
+      "cover": "fa-code",
+      "by": "Andrew Warren",
+      "date": "January 2024",
+      "type": "Chrome Extension",
+      "skills": "JS, HTML, CSS",
+      "link": "https://chromewebstore.google.com/detail/billing-codes/jpmhfepgcejjeokakoecncijgfilclbf",
+      "bullets": [
+        {
+          "title": "About",
+          "description": "Allows for checking of OCT, Visual Fields, and Corneal Topography billing codes. The aim of this extension is to allow for seamless verification of opthomological ICD-10 codes for billing purposes. The user can choose a procedure code and then verify that the ICD-10 code meets the LCD to allow billing by typing in the ICD-10 code that they wish to use."
+        }
+      ],
+      "vimages": [
+      ],
+      "himages": [
+        "https://cdn.glitch.global/ee4a5473-ef85-4b37-af02-206b9549a351/Screenshot%202025-01-09%20at%2011.19.21%E2%80%AFAM.png?v=1736439621339"
+      ]
+    }
+  ]
+}
